@@ -27,7 +27,6 @@
                             </asp:Menu>
                                 <h2 style="color:cadetblue;text-align:center;"><br />
                                 <br />欢迎使用设备保管及查询系统</h2>
-                                <h3>测试回退...</h3>
                         </ContentTemplate>
                     </asp:UpdatePanel>
                 </div>
