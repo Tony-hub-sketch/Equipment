@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="">
+      <siteMapNode url="~/Admin.aspx" title="首页" description="首页"/>
+      <siteMapNode url="~/Employee_Search.aspx" title="员工查询" description="员工查询"/>
+      <siteMapNode url="~/Employee_CRUD.aspx" title="员工管理" description="员工管理"/>
+      <siteMapNode url="~/Department_Search.aspx" title="部门查询" description="部门查询"/>
+      <siteMapNode url="~/Department_CRUD.aspx" title="部门管理" description="部门管理"/>
+      <siteMapNode url="~/Equipment_Search.aspx" title="设备查询" description="设备查询"/>
+      <siteMapNode url="~/Equipment_CRUD.aspx" title="设备管理" description="设备管理"/>
+  </siteMapNode>
+</siteMap>
